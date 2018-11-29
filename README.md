@@ -1,1 +1,3 @@
-# 初识ScikitLearning，在学习的道路上留下一点痕迹。
+# Scikit——learn的学习
+#一、数字手写识别
+#实验效果：
